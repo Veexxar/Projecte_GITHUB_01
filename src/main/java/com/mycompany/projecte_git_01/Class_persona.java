@@ -1,10 +1,12 @@
-public class Class_persona {
+package com.mycompany.projecte_git_01;
+
+public class Class_Persona {
     
     private final String nom;
     private final int edat;
     
     //Constructor
-    public Class_persona(String nom, int edat)
+    public Class_Persona(String nom, int edat)
     {
         this.nom = nom;
         this.edat = edat;
